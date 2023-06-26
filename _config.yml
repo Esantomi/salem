@@ -1,0 +1,13 @@
+# Site settings
+title: 살렘수도회 - Salem Order
+tag_text: 살렘 수도회
+description: 살렘수도회 홈페이지에 오신 것을 환영합니다.
+url: "https://Esantomi.github.io" # base URL for your site ie. "https://www.example.com"
+baseurl: "/salem" # subpath for base of site, leave blank if hosting at root
+
+font-awesome-include: false # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
