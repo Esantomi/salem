@@ -115,9 +115,14 @@ h4, h5, h6 {
   font-size: 1.5rem;
 }
 
-p, ul, ol, dl, table, pre, blockquote {
+p, ol, dl, table, pre, blockquote {
   margin-top: 0;
   margin-bottom: 1.0rem; /* 1.5rem */
+}  /* 원래 ul까지 포함 */
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0rem;
 }
 
 p {
